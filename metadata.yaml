@@ -1,0 +1,30 @@
+_repo: Memorials-of-the-SeaLate-William-Scoresby-Esq.-of-Whitby_35183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35183-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scoresby, William
+    birthdate: 1789
+    deathdate: 1857
+    gutenberg_agent_id: '37516'
+    url: http://www.gutenberg.org/2009/agents/37516
+description: ''
+gutenberg_issued: '2011-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35183'
+  lccn: 05029018
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scoresby, William, 1760-1829'
+- !lcsh 'Fathers and sons -- England -- Whitby'
+- !lcsh 'Whaling'
+- !lcc 'G'
+title: "Memorials of the Sea: My Father\r\nBeing Records of the Adventurous Life of\
+  \ the Late William Scoresby, Esq. of Whitby"
+url: http://www.gutenberg.org/ebooks/35183
